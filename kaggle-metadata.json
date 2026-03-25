@@ -7,10 +7,9 @@
     }
   ],
   "keywords": [
-    "open-data",
     "research",
     "latin-america"
   ],
-  "description": "Gasto Público en Salud Mental en Iberoamérica (2000-2026): Base de Datos por País y Categoría. DOI: 10.17632/dmyc5xtn62.1\n\nDOI: https://github.com/juanmoisesd/mental-health-public-spending-iberoamerica-2000-2026\nGitHub: https://github.com/juanmoisesd/mental-health-public-spending-iberoamerica-2000-2026\nAuthor: de la Serna, Juan Moisés",
+  "description": "Gasto Público en Salud Mental en Iberoamérica (2000-2026): Base de Datos por País y Categoría. DOI: 10.17632/dmyc5xtn62.1\nDOI: https://github.com/juanmoisesd/mental-health-public-spending-iberoamerica-2000-2026",
   "isPrivate": false
 }
