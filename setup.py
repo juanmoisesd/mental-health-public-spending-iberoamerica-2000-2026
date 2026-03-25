@@ -1,0 +1,13 @@
+from setuptools import setup, find_packages
+setup(
+    name="mental-health-public-spending-iberoamerica-2000-2026",
+    version="1.0.0",
+    description="Gasto Público en Salud Mental en Iberoamérica (2000-2026): Base de Datos por País y Categoría. DOI: ",
+    author="de la Serna, Juan Moisés",
+    url="https://github.com/juanmoisesd/mental-health-public-spending-iberoamerica-2000-2026",
+    packages=find_packages(),
+    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
+    python_requires=">=3.7",
+    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
+    keywords="zenodo, open-data",
+)
