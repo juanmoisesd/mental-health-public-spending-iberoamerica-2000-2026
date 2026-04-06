@@ -60,3 +60,12 @@ De la Serna Tuya, J. M. (2026). *Gasto Público en Salud Mental en Iberoamérica
 
 ## License
 CC BY 4.0 — You may share and adapt with appropriate credit.
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Mental Health Public Spending Iberoamerica 2000 2026*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/mental-health-public-spending-iberoamerica-2000-2026 
+
+See `CITATION.cff` for formatted references.
